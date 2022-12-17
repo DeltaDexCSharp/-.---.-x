@@ -1,4 +1,6 @@
 ᴰ.ᴱᴸᵀᴬ Library & ᴰ.ᴱx Class [C#]
+
+Description:
 A collection of set functions and parameters intended to build .Net Applications.
 The implemenation begins at Main() and allows the creation of a Windows Form Application & more every commit via dynamic functions, parameters and etc...
 
