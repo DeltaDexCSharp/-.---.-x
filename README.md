@@ -18,6 +18,6 @@ I hope I've understood the terms/github layout as it's intended to be x'D
 The current objective is to be able to choose a blank project simply import the ᴰ.ᴱᴸᵀᴬ Library & ᴰ.ᴱx Class and be set to build an
 application via ᴰ.ᴱᴸᵀᴬ ᴰ.ᴱx.
 
-This should currently be possible by I have a lot of coding planned that has yet to be coded.
+This should currently be possible, I have a lot of coding planned that has yet to be coded...for now!
 
 The combo also allows for features such as a rounded borderless form and or control.
