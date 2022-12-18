@@ -2,7 +2,7 @@ The MIT License (MIT)
 
 Copyright (c) .NET Foundation and Contributors
 
-Copyright (c) ᴰ.ᴱᴸᵀᴬ Library & ᴰ.ᴱx Class [C#] Developer
+Copyright (c) ᴰ.ᴱᴸᵀᴬ Library & ᴰ.ᴱx Class Developer
 
 All rights reserved.
 
