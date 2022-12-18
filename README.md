@@ -14,3 +14,5 @@ The current objective is to be able to download a startup project and be set to 
 I'm a hobbyist so by all means I understand if some code/methods are considered "Bad Practices".
 If you like the idea and are looking to expand it by all means, take a go. 
 
+Project github version on hold for major update/changes.
+
